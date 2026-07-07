@@ -49,17 +49,12 @@
 
 <h3 align="left">💼 Experience</h3>
 
-- **Zomato** — Software Engineer Intern *(Jan 2026 – June 2026)*: Built an LLM-powered Post-Conversation Extractor across an SQS→Kafka→callback pipeline; designed a Redis cache-aside layer cutting DB reads ~90%; improved voice gateway reliability and reduced incident MTTD by 40% via OTel/StatsD instrumentation.
-- **Amazon** — SDE Intern, Manifest/Mantis (Ship Tech) *(Jul – Dec 2025)*: Worked on the GenAI Template Creation & Validation System (ITMS), a multi-region knowledge base (DynamoDB, S3, Kendra) for 700+ templates, and a RAG pipeline for knowledge-grounded GenAI responses.
-- **Cisco** — Technical Intern-I *(May – Jul 2025)*: Built a Streamlit-based automation framework for AI Defense WebSocket APIs and a Golang backend for high-volume LLM API testing, improving violation detection accuracy by 40%.
+- **Zomato** — Software Engineer Intern *(Jan 2026 – June 2026)*
+- **Amazon** — SDE Intern, Manifest/Mantis (Ship Tech) *(Jul – Dec 2025)*
+- **Cisco** — Technical Intern-I *(May – Jul 2025)*
 
 <h3 align="left">🏅 Leadership & Achievements</h3>
 
 - Competed in Google Solution Challenge, Flipkart Grid 6.0, Tata Motors Challenge; Runner-up at Hack the Chain.
 - Placement Coordinator, Core Team Member (Algorithmus), Alumni Affairs Coordinator — ran contests & workshops, boosted alumni engagement 50% and database 90%.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=partikmalasi&show_icons=true&locale=en&layout=compact" alt="partikmalasi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=partikmalasi&show_icons=true&locale=en" alt="partikmalasi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=partikmalasi&" alt="partikmalasi" /></p>
